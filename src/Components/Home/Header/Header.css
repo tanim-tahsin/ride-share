@@ -1,0 +1,8 @@
+.nav-link{
+    color:white !important;
+    font-size: 19px;
+    margin-right: 10px !important;
+}
+.nav-link:hover{
+    color:rgb(224, 198, 163) !important
+}
